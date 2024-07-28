@@ -1,4 +1,4 @@
-Whoofi is a web platform that connects dog owners with reliable dog walkers. The project was developed by a team of four and features both a user-friendly interface and a robust backend.
+#Whoofi is a web platform that connects dog owners with reliable dog walkers. The project was developed by a team of four and features both a user-friendly interface and a robust backend.
 
 Features
 User Profiles: Allows dog owners and walkers to create and manage profiles.
